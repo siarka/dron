@@ -6,6 +6,12 @@
 using namespace std;
 
 
+
+
+
+
+
+//eeeeeeeeeeeeeee
 int main()
 {
   PzG::LaczeDoGNUPlota  Lacze;
